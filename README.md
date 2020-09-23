@@ -6,6 +6,7 @@
  - constraint layout
  - retrofit
  - animation
+ - viewbinding
  
  # improvements
 - hilt
